@@ -1,5 +1,5 @@
-                # Website.html
-HTML
+          # Website.html
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -28,10 +28,10 @@ HTML
             <p>https://www.facebook.com/share/kFfT3NETPzECXBLi/ </p>
         </section>
         <section id="CONTACT"><h2>CONTACT Section</h2>
-            <p>Here's how to reach me.</p>
+            <p>KEEP IN TOUCHHHHH BUDDY</p>
         </section>
     </main>
     <footer>
-        <p>&copy; 2024 My First Website</p>
+        <p>&copy; 🙋🏻🙋🏻🙋🏻</p>
     </footer>
 </html>
