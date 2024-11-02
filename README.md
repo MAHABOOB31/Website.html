@@ -21,14 +21,13 @@ HTML
     <main>
         <section id="INSTA">
             <h2>INSTA Section</h2>
-            <p>This is the home section of the website.</p>
+            <p> https://www.instagram.com/basha_tushar_shaik/profilecard/?igsh=Z2o5Yno2dGluNm9y</p>
         </section>
         <section id="FACEBOOK">
             <h2>FACEBOOK Section</h2>
-            <p>This section is about me.</p>
+            <p>https://www.facebook.com/share/kFfT3NETPzECXBLi/ </p>
         </section>
-        <section id="CONTACT">
-            <h2>CONTACT Section</h2>
+        <section id="CONTACT"><h2>CONTACT Section</h2>
             <p>Here's how to reach me.</p>
         </section>
     </main>
