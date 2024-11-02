@@ -32,6 +32,6 @@
         </section>
     </main>
     <footer>
-        <p>&copy; 🙋🏻🙋🏻🙋🏻</p>
+        <p>&copy;🙋🏻🙋🏻🙋🏻</p>
     </footer>
 </html>
